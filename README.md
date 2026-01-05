@@ -1,6 +1,5 @@
 # assistantAIFunction
-// README.md
-/*
+
 # OpenAI Assistant Integration for Genesys Cloud Functions
 
 ## Functions
